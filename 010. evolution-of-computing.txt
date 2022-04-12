@@ -1,0 +1,33 @@
+Dedicated -> VMs -> Containers -> Functions
+
+Dedicated:
+    A physical server wholly utilized by a single customer.
+    You have to guess your capacity, you'll operpay for an underutilized server.
+    Upgrading beyond your capacity will be slow and expensive.
+    You are limited by your operating system.
+    Multiple apps can result in conflicts in resource sharing.
+    You have a gurantee of securoty, privacy, and full untility of underlying resources.
+
+VMs:
+    You can run multiple VMs on one machine.
+    Hypervisor is the software layer that lets you use/create VMs.
+    A physical server shared by multiple customers.
+    You only pay for a fraction of the server.
+    You'll operpay for an underutilized VMs.
+    Limited by Gues OS.
+    Multiple apps on a single VMs can result in conflicts in resource sharing.
+
+Containers:
+    VMs running multiple container.
+    Docker Deamon is the name of the software layer that lets you run multiple containers.
+    You can maximize the utility of the available capacity which is more cost-effective.
+    Your containers share the same underlying OS so containers are more efficient than multiple VMs.
+    Multiple apps can run side by side without being limited to the same OS requirements and will not cause conflicts during resource sharing.
+
+Functions:
+    A managed VMs running managed containers.
+    Knows as serverless compute.
+    You uplaod a piece of code choose the amout of memory and duration.
+    Only responsible for code and data, nothing else.
+    Very cost-effective, only pay for the time code is running, VMs only run when there is code to be executed.
+    Cold starts is a side-effect of this setup.

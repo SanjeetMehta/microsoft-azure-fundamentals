@@ -1,0 +1,10 @@
+High Elasticity:
+    Your ability to automatically increase or decrease your capacity based on the current demand of traffic, memory, and computing power.
+    This is accomplished using horizontal scaling or scaling out. 
+
+    Vertical Scaling is generally hard for traditional architecture so you'll usually only see horizontal scaling described with Elasticity.
+
+
+Azure VM Scale Sets: Automatically increase or decrease in response to demand or a defined schedule.
+
+SQL Server Stretch Databases: Dynamically stretch warm and cold transactional data from Microsoft SQL Server 2016 to Microsoft Azure.

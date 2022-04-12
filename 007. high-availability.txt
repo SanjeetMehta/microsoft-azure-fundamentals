@@ -1,0 +1,7 @@
+High Availability:
+    Your ability for your service to remain available by ensureing there is no single point of failure and ensure a certain level of performance.
+    Running your workload accross multiple Availability Zones ensures that if 1 or 2 AZs becomes unavailable your servie remains available.
+
+Azure Load Balancer:
+    A load balancer allows you to evenly tristibute traffic to multiple servers in one or more datacenter. If a datacenter or server becomes unavailable(unhealthy) the load balancer
+    will route the traffic to only available datacenters with servers.

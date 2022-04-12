@@ -1,0 +1,7 @@
+Cloud Architecture Terminologies.
+
+High Availability: Your ability to ensure a service remains available.
+Scalability: Your ability to grow rapidly or unimpeded.
+Elasticity: Your ability to shrink and grow to meet the demand.
+Fault Tolerance: Your ability to prevent a failure.
+Disaster Recovery/High Durability: Your ability to recover from a failure.
