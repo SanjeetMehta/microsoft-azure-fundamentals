@@ -1,0 +1,17 @@
+Regions and Geographies.
+
+A region is a grouping of multiple datacenters (Availability Zones).58 regions available across 140 countries
+
+A Geography is discreet market of two or more regions that preserves data residency and compliance boundraies.
+
+Azure Geographies:
+    US
+    Azure Government(US)
+    Canada
+    Brazil
+    Mexico
+
+Paired regions: Each region is paired with another region 300miles away.
+    Only one region is updated at a time to ensure no outage.
+    Some Azure Services rely on Paired Regions for Disaster Recovery.
+    eg: Azure Geo-redundant Storage(GRS) replicates data to a secondary region automatically, ensuring that data is durable even in the event that the primary region isn't recoverable.
