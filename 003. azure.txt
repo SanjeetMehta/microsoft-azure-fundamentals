@@ -1,0 +1,2 @@
+Azure:
+Microsoft calls their cloud provider services Mocrosoft Azure, commonly referred to just as Azure.

@@ -1,0 +1,3 @@
+Common Cloud Services:
+The four most common types of cloud services for IaaaS would be:
+Compute, Networking, Storage, and Databases
