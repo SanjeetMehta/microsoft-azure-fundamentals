@@ -1,0 +1,32 @@
+What is cloud computing:
+    THe practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
+
+Why cloud?
+On-premise:
+    - You own the servers.
+    - You hire the IT people.
+    - You pay or rent the real-estate.
+    - You take all the risk.
+Cloud Providers:
+    - Someone else owns the servers.
+    - Someone else hires the IT people.
+    - Someone else pays or rents the real-estate.
+    - You are responsible for your configuring cloud services and code, someone else takes care of the rest.
+
+Dedicated Server:
+    One physical machine dedicated to a single business.
+    Runs a single web-app/site.
+    Very expensive, High maintenance, High Security.
+
+Virtual Private Server:
+    One physical machine dedicated to a single business.
+    The physical machine is virtualized into sub-machines and it runs multiple web-apps/sites.
+
+Shared Hosting:
+    One physical machine, shared by hundred of business.
+    Relies on most tenants under-utilizing their resources.
+    Very Cheap, Very Limited.
+
+Cloud Hosting:
+    Multiple physical machines that act as one system. The system is abstracted into multiple cloud services.
+    Flexible, Scalable, Secure, COst-effective, High Configurability.
