@@ -1,0 +1,7 @@
+What is IaC?
+The process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
+
+Azure Resource Manager:
+    It allows you to programmatically create Azure resources via JSON template.
+
+Azure Quickstart is a library of pre-made ARM templates provided by the community and partners to help you quickly launch new projects for a varity of stack scenarios.

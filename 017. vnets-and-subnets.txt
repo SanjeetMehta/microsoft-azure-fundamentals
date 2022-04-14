@@ -1,0 +1,13 @@
+Azure Virtual Network(vNet) and Subnets
+
+vNet:
+    It is a logically isolated section of the Azure Network where you launch your Azure resources. You choose a range of IPs using CIDR range.
+    CUDR range of 10.0.0.0/16=65536 IP addresses
+
+Subnets:
+    It is a ligical partition of an IP network into multiple smaller network segments. You are breaking up your IP range for vNet into smaller networks.
+    Subnets need to have a smaller CIDR range than to the vNet representation their portion.
+    eg: Subnet CIDR range 10.0.0.0/24 = 256 IP addresses.
+
+    A Public Subnet: It is one that can reach the internet.
+    A Private Subnet: It is the one that cannot reach the internet.

@@ -1,0 +1,18 @@
+Azure VMs:
+    Windows or Linux VMs. The most common type of compute. You choose your IS, Memory, CPU, Storage. YOu share hardware with other customers.
+
+Azure Containers Instances:
+    Docker as a service. Run containerrizrd apps on Azure without provisioning servers or VMs.
+
+Azure Kubernetes Service(AKS):
+    Kubernetes as a service. Easy to deploy, manage, and scale containerized applications. Uses the open source K8s software.
+
+Azure Service fabric:
+    Teir-1 Enterprise Containses as a service.
+    Distributed system platforms. Runs in Azure or on-premises. Easy to package, deploy, and manage scalable and reliable microservices.
+
+Azure Functions:
+    Event driven, serverless compute run code without provisioning or managing servers. YOu only pay for the compute time you consume.
+
+Azure Batch:
+    Plans, schedules, and executes your batch computer workloads across running 100+ jobs in parallel. Use Spot VMs to save money.
