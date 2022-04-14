@@ -1,0 +1,14 @@
+Azure Front Door:
+    Scalable and secure entry point for fast deliver of your global applications.
+
+Azure Express Route:
+    A connection b/w your on-premise to Azure cloud from 50Mbps to 10Gbps.
+
+Virtual WAN:
+    A networking service that brings many networking, security, and routing functionalities together to provide a single operational interface.
+
+Azure Connection:
+    A VPN connection securely connects two Azure local network via (IPsec).
+
+Virtual NetworkGateway:
+    A site-to-site VPN connection b/w an Azure virtual network and your local network.

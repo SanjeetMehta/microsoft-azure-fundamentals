@@ -1,0 +1,8 @@
+Azure traggic Manager:
+    It operates at the DNS layer to quickly and efficiently direct incoming DNS requests based on the routing method of your choice.
+
+    Route traffic to servers the geographically near by to reduce latency.
+
+    Fail-over to redundant systems in-case primary systems become unhealthy.
+
+    Route to random VM to simulate A/B testing.

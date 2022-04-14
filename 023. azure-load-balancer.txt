@@ -1,0 +1,8 @@
+Azure Load Balancer:
+    It is used for evenly distributing incoming network traffic across a group of the backed resources or server.
+    Azure LB operates on OSI Layer 4 (Transport).
+
+    You can create a:
+        Public Load Balancer: Incoming traffic from the internet to public facing servers.
+
+        Internal(Private) Load Balancer: Incoming internal network traffic to private-facing servers.

@@ -1,0 +1,3 @@
+Azure DNS allows you to host your domains name on Azure. You create DNS ZOnes and manage your DNS records.
+
+Azure DNS doesnot allow you to purchase domains. Only ability to manage DNS records.

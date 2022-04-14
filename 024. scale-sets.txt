@@ -1,0 +1,5 @@
+Scale Sets
+
+Allows you to group together identical VMs and automatically increase or dcrease the amount of servers based on:
+    change in CPU, memory, disk, and network performance.
+    on a predefined schedule.
