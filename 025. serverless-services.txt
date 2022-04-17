@@ -14,6 +14,6 @@ Micro-billing:
 
 Services:
     Azure functions. Supported languages, C#, java, JS, Python, and powershell.
-    Blog storage: Serverless object storage, just upload files and don't think about underlying sile systems, resizing.
+    Blob storage: Serverless object storage, just upload files and don't think about underlying sile systems, resizing.
     Logic Apps: Allows you to build serverless workflows composed of Azure functions building a state machine for serverless compute.
     Event grid: Use pub/sub messaging system to allow you to react to events and trigger other Azure clouds and Azure functions.
