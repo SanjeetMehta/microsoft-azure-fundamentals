@@ -1,0 +1,10 @@
+Lock resources:
+    As an admin, you may need to lock a subscription, resource group, or resource to prevent other users from accidentally deleting or modifying critical resources.
+
+    In the Azure Portal you can set the following lock levels.
+
+    CanNotDelete (In azure portal its Delete)
+    Authorized users can still read and modify a resource, but the can't delete the resource.
+
+    ReadOnly (In azure portal its read-only)
+    Authorized users can read a resource, but they can't delete or update the resource.

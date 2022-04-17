@@ -1,0 +1,12 @@
+Resource groups:
+
+Both Azure and AWS have entities called "resource groups" that organize resources such as VMs, storage, and virtual networking devices. 
+However, Azure resource groups are not directly comparable to AWS resource groups.
+
+While AWS allows a resource to be tagged into multiple resource groups, an Azure resource is always associated with one 
+resource group. A resource created in one resource group can be moved to another group, 
+but can only be in one resource group at a time. Resource groups are the fundamental grouping used by Azure Resource Manager.
+
+Resources can also be organized using tags. 
+Tags are key-value pairs that allow you to group resources across your subscription irrespective of 
+resource group membership.

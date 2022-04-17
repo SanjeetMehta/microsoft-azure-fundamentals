@@ -1,0 +1,19 @@
+Serverless:
+    When the underlying servers, infrastructure, and OS is taken care of by the cloud service provider. It will generally be
+    highly available, scalable,and cost-effective.
+
+Event driven scale:
+    A serverless function can be triggered or trigger other events allowing you to complex applications and it just scales.
+
+Abstraction servers:
+    Servers are abstracted away. Your code is described as functions. These functions can be running on different compute instances.
+
+Micro-billing:
+    Serverless compute could run on a fraction of a second. Billing into microsecods will save you money.
+
+
+Services:
+    Azure functions. Supported languages, C#, java, JS, Python, and powershell.
+    Blog storage: Serverless object storage, just upload files and don't think about underlying sile systems, resizing.
+    Logic Apps: Allows you to build serverless workflows composed of Azure functions building a state machine for serverless compute.
+    Event grid: Use pub/sub messaging system to allow you to react to events and trigger other Azure clouds and Azure functions.

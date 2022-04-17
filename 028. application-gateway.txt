@@ -1,0 +1,3 @@
+Azure Application gateway:
+    It is a web-traffic load balancer(Layer 7 HTTP) that re-route traffic based on a set of rules. A web application firewall
+    can be attached for additional protecetion.

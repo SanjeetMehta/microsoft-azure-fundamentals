@@ -1,0 +1,15 @@
+Azure Key Vaults:
+    It helps you safeguard cryptographic keys and other secrets used by cloud apps and services.
+
+    Secrets management:
+        Store and tightly control access to token, passwords, certificates, API keys, and other secrets.
+    
+    Key management:
+        Create and control the encryption keys used to encrypt your data.
+    
+    Certificate management:
+        Easily provision, manage, and deploy public and private SSL certificates for use with the Azure and the internal connected
+        resources.
+    
+    Hardware Security Model:
+        Secrets and keys can be either by software or FIPS 140-2 level 2 validate HSMs.
